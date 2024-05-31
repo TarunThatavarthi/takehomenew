@@ -31,9 +31,14 @@ To run this project locally, follow these steps:
    npm install
    ```
 
-4. **Start the development server:**
+4a. **Start the server:**
    ```bash
+   npm run build
    npm start
+   ```
+4b. **Or, if you just want to see how this works in a local enviorment:**
+   ```bash
+   npm run dev
    ```
 
 5. **Open your browser and visit:** `http://localhost:3000` to view the application.
