@@ -1,7 +1,3 @@
-Certainly! Here's the README with formatting:
-
----
-
 # Currency Converter App
 
 This is a simple currency converter application built using React and Chakra UI.
@@ -61,9 +57,7 @@ Glide for coming up with the design/API's
 
 Tarun (me) for building the app locally
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
