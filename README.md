@@ -45,7 +45,9 @@ To run this project locally, follow these steps:
 2. Enter the amount you want to convert.
 3. Select the currency you want to receive from the "Receive" dropdown.
 4. Click the "Confirm" button to complete the conversion.
-
+## Testing
+There are two tests in this suite to check the general functionality of this webpage.
+1. Index.test.tsx simply checks if all the necessary components are being rendered by checking whether crucial elements like pay, receive, select currency are all present.
 ## Dependencies
 
 - React
