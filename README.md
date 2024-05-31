@@ -58,6 +58,7 @@ To run this project locally, follow these steps:
 ## Credits
 
 Glide for coming up with the design/API's
+
 Tarun (me) for building the app locally
 
 ## License
